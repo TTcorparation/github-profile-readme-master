@@ -34,12 +34,6 @@
 
 ###
 
-<p align="center">
- <img width="600" src="https://raw.githubusercontent.com/TTcorparation/TTcorparation/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
-###
-
 <h3 align="left">🛠 Мой стек технологий:</h3>
 
 ###
