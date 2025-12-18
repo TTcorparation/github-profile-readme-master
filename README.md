@@ -78,23 +78,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TTcorparation/count.svg?"  />
-</div>
-
-###
-
-<h3 align="left">📫 Контакты:</h3>
-
-###
-
-<p align="left">💼 Telegram: <a href="https://t.me/tixxxon" target="_blank">@tixxxon</a><br>📧 Email: tikhon.dev@proton.me<br>🎮 Discord: tikhon_codes<br>🏢 Компания: <a href="https://github.com/TTcorparation" target="_blank">TT Corporation</a></p>
-
-###
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default" alt="Spotify Listening" />
-</div>
-
-###
