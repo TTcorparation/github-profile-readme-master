@@ -79,22 +79,6 @@
 
 ###
 
-<h3 align="left">🌟 TT Corporation Projects:</h3>
-
-###
-
-<div align="center">
-  <a href="https://github.com/TTcorparation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TTcorparation&repo=TTcorparation&theme=dracula" height="120" />
-  </a>
-  <!-- Добавь свои реальные репозитории вместо этих примеров -->
-  <a href="https://github.com/TTcorparation/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TTcorparation&repo=project-1&theme=dracula" height="120" />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/TTcorparation/count.svg?"  />
 </div>
